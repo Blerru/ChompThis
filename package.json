@@ -1,8 +1,9 @@
 {
     "name": "chompthis",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An unofficial API wrapper for chompthis.com made for Node.js",
     "main": "index.js",
+    "types": "./lib/index.d.ts",
     "scripts": {
         "test": "jest --config jestconfig.json",
         "build": "tsc",
